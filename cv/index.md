@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
-abstract: This is my blog
+title: CV
+abstract: This is my CV
 ---
 [Stack Overflow](http://www.stackoverflow.com)
     

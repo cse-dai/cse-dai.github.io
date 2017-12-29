@@ -8,7 +8,7 @@ title: Hank Quinlan, Horrible Cop
 </div>
 
 {% for page in site.pages %}
-	<p>{{page.title}}</p>
+	<p><a ahref="{{page.url}}">{{page.title}}</a></p>
 	<p>{{page.abstract}}</p>
 {% endfor %}
 
